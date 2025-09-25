@@ -9,6 +9,10 @@ A factory contract that allows users to easily create ERC1155 NFT collections.
 - **Easy Minting**: Users can mint tokens in their own collections
 - **OpenZeppelin**: Secure and tested contracts
 
+## 🔗 Deployed Contracts
+
+- Base Mainnet `ERC1155Factory`: `0xE7479bb846fc8fA158b57A48922aA0F811e21A2E`
+
 ## 📁 Project Structure
 
 ```
