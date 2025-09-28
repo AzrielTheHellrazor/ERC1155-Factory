@@ -11,7 +11,8 @@ A factory contract that allows users to easily create ERC1155 NFT collections.
 
 ## 🔗 Deployed Contracts
 
-- Base Mainnet `ERC1155Factory`: `0xE7479bb846fc8fA158b57A48922aA0F811e21A2E`
+- Base Mainnet `ERC1155Factory`: `0xC94aEF70729692e90e234F2515C4A23911DEf330`
+- Base Mainnet `ERC1155Collection`: `0x59936eCB74d3B69fAB0Ba0dF601A959FD6FebB46`
 
 ## 📁 Project Structure
 
